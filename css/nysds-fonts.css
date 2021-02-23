@@ -1,7 +1,7 @@
 /* FONTS _______________________________________________________________________________ */
 @font-face {
     font-family: "Proxima Nova";
-    font-weight: normal;
+    font-weight: 400;
     font-style: normal;
     src: url(../fonts/proximanova/proximanova-regular.eot);
     src: url(../fonts/proximanova/proximanova-regular.eot#iefix) format("embedded-opentype"),url(../fonts/proximanova/proximanova-regular.woff2) format("woff2"),url(../fonts/proximanova/proximanova-regular.woff) format("woff"),url(../fonts/proximanova/proximanova-regular.ttf) format("truetype");
